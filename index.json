@@ -1,0 +1,856 @@
+{
+  "sections": {
+    "feature-logo-with-image": {
+      "type": "feature-logo-with-image",
+      "blocks": {
+        "sticker-feature-logo-with-image-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 240,
+            "half_width_on_mobile": false,
+            "text": "Full of\nFlavour",
+            "shape": "star_wide",
+            "sticker_font_size": "1.25rem",
+            "horizontal_position": 88,
+            "vertical_position": 43,
+            "rotate": 24,
+            "show_sticker_on_mobile": false,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": true,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-1 text-scheme-accent-1-contrast"
+          }
+        },
+        "sticker-feature-logo-with-image-1": {
+          "type": "sticker",
+          "settings": {
+            "width": 190,
+            "half_width_on_mobile": false,
+            "text": "Hot stuff!",
+            "shape": "semicircle",
+            "sticker_font_size": "1.563rem",
+            "horizontal_position": 13,
+            "vertical_position": 52,
+            "rotate": -12,
+            "show_sticker_on_mobile": false,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": true,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-card text-scheme-card-text"
+          }
+        },
+        "sticker-feature-logo-with-image-2": {
+          "type": "sticker",
+          "settings": {
+            "width": 240,
+            "half_width_on_mobile": true,
+            "text": "Sticker",
+            "shape": "star_1",
+            "sticker_font_size": "1.563rem",
+            "horizontal_position": 87,
+            "vertical_position": 80,
+            "rotate": -38,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "rotate_when_scrolling",
+            "enable_parallax": true,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-1 text-scheme-accent-1-contrast"
+          }
+        },
+        "sticker-feature-logo-with-image-3": {
+          "type": "sticker",
+          "settings": {
+            "width": 240,
+            "half_width_on_mobile": true,
+            "text": "Sticker",
+            "shape": "star_1",
+            "sticker_font_size": "1.563rem",
+            "horizontal_position": 9,
+            "vertical_position": 100,
+            "rotate": 54,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "rotate_when_scrolling",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-1 text-scheme-accent-1-contrast"
+          }
+        }
+      },
+      "block_order": [
+        "sticker-feature-logo-with-image-0",
+        "sticker-feature-logo-with-image-1",
+        "sticker-feature-logo-with-image-2",
+        "sticker-feature-logo-with-image-3"
+      ],
+      "settings": {
+        "alignment": "center",
+        "logo_max_width": 75,
+        "button_link": "",
+        "button_label": "Shop Now",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "disable_media_style": false,
+        "max_width_image_mobile": 100,
+        "image_offset_mobile": 2.5,
+        "max_width_image_desktop": 80,
+        "image_offset_desktop": 6,
+        "color_scheme": "scheme2",
+        "use_gradient_background": false
+      }
+    },
+    "feature-text": {
+      "type": "feature-text",
+      "blocks": {
+        "shape-divider-feature-text-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme2",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": ["shape-divider-feature-text-0"],
+      "settings": {
+        "rich_text": "Everyday pantry goods for the everyday chef.",
+        "mobile_text_scale": 6,
+        "desktop_text_scale": 11,
+        "display_on_card": false,
+        "apply_effects": false,
+        "content_width_desktop": "lg:w-full",
+        "button_label": "Shop Now",
+        "color_scheme": "",
+        "use_gradient_background": false
+      }
+    },
+    "icon-list": {
+      "type": "icon-list",
+      "blocks": {
+        "icon-0": {
+          "type": "icon",
+          "settings": {
+            "icon": "low_salt",
+            "text": "Low salt"
+          }
+        },
+        "icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon": "no_additives",
+            "text": "No bad stuff"
+          }
+        },
+        "icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon": "organic",
+            "text": "Organic"
+          }
+        },
+        "icon-3": {
+          "type": "icon",
+          "settings": {
+            "icon": "non_gmo",
+            "text": "Non-GMO"
+          }
+        },
+        "icon-4": {
+          "type": "icon",
+          "settings": {
+            "icon": "no_artificial_colors",
+            "text": "No fake stuff"
+          }
+        },
+        "icon-5": {
+          "type": "icon",
+          "settings": {
+            "icon": "low_carb",
+            "text": "Low carb"
+          }
+        }
+      },
+      "block_order": [
+        "icon-0",
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4",
+        "icon-5"
+      ],
+      "settings": {
+        "title": "",
+        "max_width": 100,
+        "text_style": "body",
+        "uppercase_text": true,
+        "layout_on_mobile": "wrap",
+        "icon_alignment_on_desktop": "md:justify-between",
+        "icon_thickness": 2.5,
+        "background_color": "bg-transparent text-scheme-text",
+        "show_border": true,
+        "color_scheme": "scheme1",
+        "use_gradient_background": false
+      }
+    },
+    "collection-focus-carousel": {
+      "type": "collection-focus-carousel",
+      "blocks": {
+        "sticker-collection-focus-carousel-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 150,
+            "half_width_on_mobile": false,
+            "text": "Home<br>Made!",
+            "shape": "star_3",
+            "sticker_font_size": "1.953rem",
+            "horizontal_position": 89,
+            "vertical_position": 27,
+            "rotate": 34,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-1 text-scheme-accent-1-contrast"
+          }
+        }
+      },
+      "block_order": ["sticker-collection-focus-carousel-0"],
+      "settings": {
+        "title": "Our Goods",
+        "subheading": "You'll be cooking like Carmy in no time.",
+        "collection": "all",
+        "no_products": 4,
+        "focused_slide_source": "description",
+        "display_on_card": false,
+        "enlarge_active_slide": true,
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 45,
+        "product_tiles_aspect_ratio": "",
+        "image_shape": "default",
+        "color_scheme": "",
+        "use_gradient_background": false
+      }
+    },
+    "featured-testimonials": {
+      "type": "featured-testimonials",
+      "blocks": {
+        "shape-divider-featured-testimonials-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme1",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "5_stars",
+            "quote": "“This hot sauce is the perfect blend of heat and flavor. It's become a kitchen staple, enhancing every dish without overpowering it. Highly recommend to all spice lovers!”",
+            "source": "Auguste Gusteau"
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "5_stars",
+            "quote": "“Discovering this brand's pantry items has been a game-changer. The variety and quality are unmatched, making it easy to create delicious meals. The hot sauces add just the right kick!”",
+            "source": "Lucy, Pasta Queen"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "rating": "5_stars",
+            "quote": "“This brand has transformed my culinary experience! The pantry essentials and hot sauces are top-notch, adding robust flavors to my dishes. I'm officially hooked!”",
+            "source": "Carmy Berzatto"
+          }
+        },
+        "shape-divider-featured-testimonials-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme1",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-featured-testimonials-0",
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "shape-divider-featured-testimonials-1"
+      ],
+      "settings": {
+        "display_on_card": false,
+        "title": "Word on the street",
+        "font": "font-heading",
+        "mobile_text_scale": 4,
+        "desktop_text_scale": 7,
+        "source_font": "font-heading heading-secondary",
+        "max_width": 100,
+        "disable_media_style": false,
+        "crop": "",
+        "image_shape": "default",
+        "color_scheme": "scheme4",
+        "use_gradient_background": false
+      }
+    },
+    "comparison-table": {
+      "type": "comparison-table",
+      "blocks": {
+        "row-0": {
+          "type": "row",
+          "settings": {
+            "title": "Certified B Corp",
+            "column_1_icon": "check_mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "check_close",
+            "column_3_text": "",
+            "column_4_icon": "check_close",
+            "column_4_text": ""
+          }
+        },
+        "row-1": {
+          "type": "row",
+          "settings": {
+            "title": "Locally sourced ingredients",
+            "column_1_icon": "check_mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "check_close",
+            "column_3_text": "",
+            "column_4_icon": "check_close",
+            "column_4_text": ""
+          }
+        },
+        "row-2": {
+          "type": "row",
+          "settings": {
+            "title": "Out of control flavours",
+            "column_1_icon": "check_mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "check_close",
+            "column_3_text": "",
+            "column_4_icon": "check_close",
+            "column_4_text": ""
+          }
+        },
+        "row-3": {
+          "type": "row",
+          "settings": {
+            "title": "Will make you a better chef",
+            "column_1_icon": "check_mark",
+            "column_1_text": "",
+            "column_2_icon": "check_close",
+            "column_2_text": "",
+            "column_3_icon": "",
+            "column_3_text": "",
+            "column_4_icon": "",
+            "column_4_text": ""
+          }
+        }
+      },
+      "block_order": ["row-0", "row-1", "row-2", "row-3"],
+      "settings": {
+        "title": "How we stack up",
+        "display_on_card": false,
+        "max_width": "max-w-4xl",
+        "highlighted_column": "1",
+        "highlighted_column_color": "accent-1",
+        "show_scroll_left_to_right_on_mobile": true,
+        "column_1_title": "Hella goods",
+        "column_2_title": "Other hot sauces",
+        "enable_column_3": false,
+        "column_3_title": "Column 3",
+        "enable_column_4": false,
+        "column_4_title": "Column 4",
+        "icon_thickness": 2,
+        "background_color": "bg-transparent text-scheme-text",
+        "show_border": true,
+        "color_scheme": "scheme1",
+        "use_gradient_background": false
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "display_on_card": false,
+            "text_align": "text-left"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_on_card": false,
+            "show_on_sale_sticker": false,
+            "text_align": "text-left"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "display_on_card": false,
+            "truncate_description": false,
+            "text_align": "text-left"
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "display_on_card": false,
+            "option_style": "drop_down",
+            "full_width_buttons": false,
+            "hide_option_labels": true,
+            "enable_color_swatches": false
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "display_on_card": false,
+            "show_price": false,
+            "enable_payment_button": true,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "sticker-featured-product-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 150,
+            "half_width_on_mobile": false,
+            "text": "New!",
+            "shape": "star_4",
+            "sticker_font_size": "1.563rem",
+            "horizontal_position": 91,
+            "vertical_position": 20,
+            "rotate": 6,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-2 text-scheme-accent-2-contrast"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "description",
+        "variant-picker",
+        "buy-buttons",
+        "sticker-featured-product-0"
+      ],
+      "settings": {
+        "title": "Product of the month",
+        "crop": "",
+        "image_shape": "default",
+        "media_mobile_width": "w-full",
+        "desktop_media_width": "lg:col-span-6_lg:col-span-6",
+        "enable_video_looping": true,
+        "thumbnails_position": "left",
+        "thumbnail_crop": "aspect-w-1 aspect-h-1",
+        "thumbnail_shape": "default_ellipse",
+        "hide_media_shadow": false,
+        "thumbnail_size": "standard",
+        "show_thumbnails_on_mobile": false,
+        "color_scheme": "scheme1",
+        "use_gradient_background": false
+      }
+    },
+    "video-with-text-overlay": {
+      "type": "video-with-text-overlay",
+      "blocks": {
+        "shape-divider-video-with-text-overlay-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme1",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "shape-divider-video-with-text-overlay-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme3",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "sticker-video-with-text-overlay-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 150,
+            "half_width_on_mobile": false,
+            "text": "Let us cook!",
+            "shape": "star_1",
+            "sticker_font_size": "1.953rem",
+            "horizontal_position": 15,
+            "vertical_position": 21,
+            "rotate": -18,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-2 text-scheme-accent-2-contrast"
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-video-with-text-overlay-0",
+        "shape-divider-video-with-text-overlay-1",
+        "sticker-video-with-text-overlay-0"
+      ],
+      "settings": {
+        "crop": "square",
+        "crop_desktop": "widescreen",
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": false,
+        "style": "full",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "Hella good dining",
+        "heading_size": "heading-feature",
+        "richtext": "Quality street food in quality cities.",
+        "cta_text": "Our restaurants",
+        "color_scheme": "scheme2",
+        "use_gradient_background": false
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "sticker-image-with-text-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 190,
+            "half_width_on_mobile": false,
+            "text": "New recipe!",
+            "shape": "star_wide",
+            "sticker_font_size": "1.25rem",
+            "horizontal_position": 85,
+            "vertical_position": 12,
+            "rotate": -14,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme3",
+            "color": "bg-scheme-accent-1 text-scheme-accent-1-contrast"
+          }
+        }
+      },
+      "block_order": ["sticker-image-with-text-0"],
+      "settings": {
+        "display_on_card": false,
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "pancake_stack",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "three_fifths",
+        "disable_media_style": false,
+        "title": "Pulled pork tacos",
+        "heading_size": "heading-feature",
+        "richtext": "<p>Spice up your life with these party-pleasing pulled-pork tacos.</p>",
+        "text_alignment": "text-left",
+        "button_label": "View recipe",
+        "color_scheme": "scheme3",
+        "use_gradient_background": false
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "display_on_card": false,
+        "posts_per_row_desktop": 3,
+        "title": "More recipes",
+        "post_limit": 3,
+        "crop": "aspect-w-1 aspect-h-1",
+        "image_shape": "default",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_post_excerpt": false,
+        "show_view_all": true,
+        "color_scheme": "scheme3",
+        "use_gradient_background": false
+      }
+    },
+    "image-with-highlights": {
+      "type": "image-with-highlights",
+      "blocks": {
+        "shape-divider-image-with-highlights-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme3",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "highlight-0": {
+          "type": "highlight",
+          "settings": {
+            "title": "100% Extra Virgin Olive Oil",
+            "text": "Made from Picual olives, ensuring a pure and unblended product.",
+            "cta_link": "",
+            "cta_text": "",
+            "override_section_color_scheme": false,
+            "color_scheme": ""
+          }
+        },
+        "highlight-1": {
+          "type": "highlight",
+          "settings": {
+            "title": "Harvested at Peak Season",
+            "text": "Olives are picked during peak ripeness, providing a balanced, mellow flavor.",
+            "cta_link": "",
+            "cta_text": "",
+            "override_section_color_scheme": false,
+            "color_scheme": ""
+          }
+        },
+        "highlight-2": {
+          "type": "highlight",
+          "settings": {
+            "title": "High Yield",
+            "text": "It takes about 13 pounds of olives to produce one liter of oil.",
+            "cta_link": "",
+            "cta_text": "",
+            "override_section_color_scheme": false,
+            "color_scheme": ""
+          }
+        },
+        "highlight-3": {
+          "type": "highlight",
+          "settings": {
+            "title": "Versatile Cooking",
+            "text": "Ideal for various cooking methods like roasting, frying, and baking due to its high smoke point.",
+            "cta_link": "",
+            "cta_text": "",
+            "override_section_color_scheme": false,
+            "color_scheme": ""
+          }
+        },
+        "highlight-4": {
+          "type": "highlight",
+          "settings": {
+            "title": "Single-Origin",
+            "text": "Sourced exclusively from Jaén, Spain, known for its premium olive production.",
+            "cta_link": "",
+            "cta_text": "",
+            "override_section_color_scheme": false,
+            "color_scheme": ""
+          }
+        },
+        "highlight-5": {
+          "type": "highlight",
+          "settings": {
+            "title": "Eco-Friendly Packaging",
+            "text": "Comes in a squeezable, easy-to-use bottle, minimizing waste.",
+            "cta_link": "",
+            "cta_text": "",
+            "override_section_color_scheme": false,
+            "color_scheme": ""
+          }
+        },
+        "background-shape": {
+          "type": "background_shape",
+          "settings": {
+            "shape": "abstract_star_3",
+            "blob_type": 1,
+            "size": 135,
+            "opacity": 100,
+            "blur": 0,
+            "horizontal_position": 50,
+            "vertical_position": 50,
+            "rotate": 20,
+            "enable_parallax": true,
+            "parallax_speed": 7,
+            "color_scheme": "scheme1",
+            "color": "accent-1"
+          }
+        },
+        "shape-divider-image-with-highlights-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme4",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-image-with-highlights-0",
+        "highlight-0",
+        "highlight-1",
+        "highlight-2",
+        "highlight-3",
+        "highlight-4",
+        "highlight-5",
+        "background-shape",
+        "shape-divider-image-with-highlights-1"
+      ],
+      "settings": {
+        "title": "the secret sauce",
+        "block_alignment_on_desktop": "justify-center",
+        "display_on_card": true,
+        "slideshow_on_mobile": true,
+        "slideshow_focus": "center",
+        "max_width": 380,
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "disable_media_style": true,
+        "color_scheme": "scheme1",
+        "use_gradient_background": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "blocks": {
+        "sticker-featured-collection-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 150,
+            "half_width_on_mobile": false,
+            "text": "Look<br>Fresh!",
+            "shape": "wave_ribbon",
+            "sticker_font_size": "1.563rem",
+            "horizontal_position": 90,
+            "vertical_position": 12,
+            "rotate": 8,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-2 text-scheme-accent-2-contrast"
+          }
+        }
+      },
+      "block_order": ["sticker-featured-collection-0"],
+      "settings": {
+        "title": "Hella Good Merch",
+        "subheading": "Fresh fits for fresh food.",
+        "collection": "all",
+        "no_products": 3,
+        "show_view_all": false,
+        "enable_quick_buy": false,
+        "display_on_card": false,
+        "layout": "grid",
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "slideshow_focus": "center",
+        "mobile_slide_width": "three_fifths",
+        "desktop_slide_width": 40,
+        "autoscroll_mode": "1",
+        "product_tiles_aspect_ratio": "aspect-w-3 aspect-h-4",
+        "image_shape": "default",
+        "color_scheme": "scheme4",
+        "use_gradient_background": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "shape-divider-newsletter-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme4",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "shape-divider-newsletter-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme2",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-newsletter-0",
+        "shape-divider-newsletter-1"
+      ],
+      "settings": {
+        "title": "Sign up to our newsletter",
+        "richtext": "<p>Receive special offers and first look at new products.</p>",
+        "display_on_card": false,
+        "color_scheme": "scheme1",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "feature-logo-with-image",
+    "feature-text",
+    "icon-list",
+    "collection-focus-carousel",
+    "featured-testimonials",
+    "comparison-table",
+    "featured-product",
+    "video-with-text-overlay",
+    "image-with-text",
+    "blog-posts",
+    "image-with-highlights",
+    "featured-collection",
+    "newsletter"
+  ]
+}
